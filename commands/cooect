@@ -17,4 +17,4 @@ async def connect(ctx):
     else:
         await ctx.send("You need to join a voice channel first.")
 
-bot.run("MTM3MzM0OTgzNDM2MjQ1NDAxNg.GD2jyt.DkJ5tKFPSTNuk8TIrKih0wLBr-tlwmQ2EmAdMY")
+bot.run("YOUR_BOT_TOKEN")
